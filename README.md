@@ -11,9 +11,9 @@ https://github.com/konglingwengit/Triangle567/tree/StaticCodeAnalysis
 
 ## 2. I used pycharm community version for static code analyzer tool.
 
-3. I used pycharm Professional version for code coverage tool.
+## 3. I used pycharm Professional version for code coverage tool.
 
-4. I had to add new test case for coverage of 100%
+## 4. I had to add new test case for coverage of 100%
 
 Here is the OLD test cases screenshot.
 
@@ -24,7 +24,7 @@ Here is the New added test case.
 
 ![New Test Cases](https://raw.githubusercontent.com/konglingwengit/HW05_Static_Code_Analysis/main/HW05btests.PNG)
 
-5.	Here are the Results
+## 5.	Here are the Results
 
 Static code analysis: Without Code Coverage Test I couldn't been able to spot some code coverage of my tests of Not a Triangle with in range.
 
