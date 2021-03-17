@@ -6,10 +6,10 @@ When I googled about code coverage in pycharm they had it only on professional v
 after that I checked my code coverage which was above 80% that was required for this assignment but mine was 91% TestTriangle.py & 88% Triangle.py. Then I tried to figure out all the issues
 & I successfully done both files 100% coverage.
 
-1.	The GitHub URL containing the code that was analyzed is here...
+## 1.	The GitHub URL containing the code that was analyzed is here...
 https://github.com/konglingwengit/Triangle567/tree/StaticCodeAnalysis
 
-2. I used pycharm community version for static code analyzer tool.
+## 2. I used pycharm community version for static code analyzer tool.
 
 3. I used pycharm Professional version for code coverage tool.
 
